@@ -1,710 +1,708 @@
 cluster id: 0
-Boardriders and its subsidiarities QuikSilver and Billabong infected with ransomware
-#city | #ransomware | 90pc of UK’s biggest law firms at risk of having confidential client data stolen
-Detecting and Responding to Ransomware
-Australian Govt agency ACSC warns of Emotet and BlueKeep attacks
-#city | #ransomware | MIT Expert Explains Ransomware Attacks
-10 Steps Organizations Can Take in the Fight Against Ransomware
-What SMBs NEED to know about ransomware
-Asus Ransomware Removal Guide
-Ransomware threat
-Sorryforthis Ransomware Removal Guide
-TA-505 Cybercrime on System Integrator Companies
-Remove Peet Virus Ransomware (+File Recovery)
-Proven Methods for Combatting SMB Ransomware
-Best Ransomware Removal Overview: Understanding This Kind of Malware and How it Can be Prevented
-Are You Ready for Ransomware?
-TA505 Cybercrime targets system integrator companies
-Ransomware Lessons for City Governments
-Can Your SMB Stand Up to Petya 2.0 Ransomware?
-Counterterrorism expert: Small healthcare companies are the new ransomware targets
-Defending against nation state ransomware
-Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
-Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
-Uninstall Cyborg Ransomware from Windows 10
-#school | #ransomware | Las Cruces, N.M., School District to Scrub 30,000 Computers
-North Carolina municipalities get state’s help on ransomware protection
-Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
-Malwarebytes Anti-Exploit Beta 1.13.1.125 | Offer protection to your browsers and programs towards assaults ZeroDay
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-A major cloud services company suffers massive ransomware infection
-StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
-How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
-How To Remove Nonamebnm Scam Pop-ups From Mac
-ConnectWise warns customers of ongoing ransomware campaign
-US Govt Asks Users to Be Wary of Holiday Scams and Malware
-Counterterrorism expert: Small healthcare companies are the new ransomware targets
-Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
-Removal instructions for Full System Care
-Fighting malware at the roots
-The State of Insider Threats in 2019
-Defending against nation state ransomware
-Your business’s cybersecurity depends on you
-The Myths of Multifactor Authentication
-Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
-Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
-ISRO Was Warned About DTrack Malware During Chandrayaan 2 Mission, But Remained "Unaffected"
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-Transactional Synchronization Extensions (TSX) Asynchronous Abort
-MOBILE BANKING MALWARE 101
-Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
-PH has high Malware Attacks among SEA Countries
-Kaspersky: PH ranks 3rd in SEA with most Android mobile malware attempts
-eMerge E3 Access Controller 4.6.07 - Remote Code Execution (Metasploit)
-eMerge E3 Access Controller 4.6.07 - Remote Code Execution (Metasploit)
-Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
-Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
-Android: 49 apps contaminated by a malware found in the Play Store
-ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact- Technology News, Firstpost
-How to remove STOP Ransomware
-Some iOS Apps Found To Have Clicker Trojan Malware
-PureLocker Ransomware Can Be Ported To Windows, Linux, and macOS
-A major cloud services company suffers massive ransomware infection
-How to Handle a Cyberattack
-Seqrite Threat Report Q3 2019
-Researchers discover massive increase in Emotet activity
-Check Point September 2019 top malware
-Donald Trump ransomware spreads dangerous malware
-Cheats, hacks, and cyber-attacks: Esports cybercrime poised to soar
-PureLocker Ransomware Can Lock Files on Windows, Linux, and macOS
-GOOGLE PLAY EXPELLED 49 MALWARE CONTAMINATED APPS FROM PLAY STORE
-Google enlists outside help to clean up Android’s malware mess
-Android smartphone owners fall victim to new ‘unremovable’ malware variant
-Cyber-attack against KNPPP and ISRO: The threat comes home
-Cyberattack Against KNPPP And ISRO: The Threat Comes Home – Analysis
-Sodinokibi Ransomware Targeting Asia via the RIG Exploit Kit
-ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact
-Researchers discover massive increase in Emotet activity
-Ransomware Lessons for City Governments
-New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
-Uninstall Cyborg Ransomware from Windows 10
-Cyberattack Against KNPPP And ISRO: The Threat Comes Home – Analysis
-Ransomware threat
-Sorryforthis Ransomware Removal Guide
-Critical vulnerability affects Linux Ubuntu and FreeBSD systems
-Removal instructions for Full System Care
-Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
-Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
-Vulnerability in McAfee Antivirus Software Let Hackers Execute an Arbitrary Code & Escalates System Privilege
-Emotet malware is back, more dangerous than ever
-ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact
-If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
-Global Ransomware Protection Industry
-ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact- Technology News, Firstpost
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-Magento Users Warned of Remote Code Execution Vulnerability
-Cybersecurity Must Do More Than Prevention, Real-Time Metadata Is the First Step
-Uninstall Cyborg Ransomware from Windows 10
-Donald Trump ransomware spreads dangerous malware
-Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
-Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
-Detecting and Responding to Ransomware
-Global Spear Phishing Market Demand Analysis By Top Key Players Like Cisco Systems Inc., Votiro Inc., IronScales Ltd., Microsoft, Symantec Corporation, PhishLabs
-Bitdefender GravityZone enhanced with new endpoint defense capabilities
-Glimpse Malware Aims to Avoid Detection Via Alternative DNS
-New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
-A major cloud services company suffers massive ransomware infection
-Sodinokibi Ransomware Targeting Asia via the RIG Exploit Kit
-Live in Florida? You're more likely to be hit by a cyberattack than any other state
-Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
-Titanium APT Hackers Inject New Hidden Backdoor on Windows Using Fileless Technique
-CVE-2019-11135 - Speculate the Unexpected
-CVE-2017-18350 Disclosure
-CVE-2019-15225/15226: Envoy 1.11.1 vulnerability fixes
-Optergy 2.3.0a - Remote Code Execution (Backdoor)
-Aussie cybersecurity innovator Datasec goes global with HP Workpath
-Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
-How To Use AXIOM In Malware Investigations: Part I
-Two critical zero-day vulnerabilities found at thousands of ATMs
-Researchers wp vcd malware is no 1 in wordpress infections since august
-Cybersecurity Must Do More Than Prevention, Real-Time Metadata Is the First Step
-What SMBs NEED to know about ransomware
-Emotet malware is back, more dangerous than ever
-If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
-If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
-PureLocker Ransomware Can Lock Files on Windows, Linux, and macOS
-PureLocker Ransomware Can Be Ported To Windows, Linux, and macOS
-Reversed malware and prison charges
-Can Your SMB Stand Up to Petya 2.0 Ransomware?
-Believe the hype, but control the threat: Reducing the risk of ransomware
-Donald Trump ransomware spreads dangerous malware
-Proven Methods for Combatting SMB Ransomware
-Gamaredon targets Ukraine using CVE-2017-0199
-Sorryforthis Ransomware Removal Guide
-Asus Ransomware Removal Guide
-Android Rat – The FatRat Pentesting Tool for Getting Targeted Android Phone Access
-Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
-Global Ransomware Protection Industry
-Remove Peet Virus Ransomware (+File Recovery)
-Boardriders and its subsidiarities QuikSilver and Billabong infected with ransomware
-StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-Global Ransomware Protection Industry
-WP-VCD malware is number one in WordPress infections since August
-If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
-Live in Florida? You're more likely to be hit by a cyberattack than any other state
-Two critical zero-day vulnerabilities found at thousands of ATMs
-Discord Users Be Careful Of Malware And Information Theft
-Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
-How To Use AXIOM In Malware Investigations: Part I
-Discord Users Be Careful Of Malware And Information Theft
-Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
-Gamaredon targets Ukraine using CVE-2017-0199
-DDoS Assaults Concentrate on Amazon, SoftLayer and Telecom Infrastructure
-Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
-Uninstall Cyborg Ransomware from Windows 10
-ConnectWise warns customers of ongoing ransomware campaign
-Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
-Intel's Cascade Lake CPUs impacted by new Zombieload v2 attack
-Microsoft Warns BlueKeep Exploit Likely to Deliver More Harmful Payloads
-Microsoft Warns Users: Beware of Damaging BlueKeep Attacks
-TA505 Cybercrime targets system integrator companies
-Tech Support Scammers Exploiting Unpatched Firefox Bug
-Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
-World War C or How to Keep Your Organization Safe in a Cyber-Threatened Era
-Cybercrime: Federal Criminal Office establishes new department from 2020
-US Govt Asks Users to Be Wary of Holiday Scams and Malware
-October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
-EFF Urges Court to Reconsider Decision That Harms Internet Users’ Ability to Protect Themselves Online
-Ransom payments averaging $41,000 per incident
-What Is NIST’s Cybersecurity Framework Manufacturing Profile?
-Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
-UK POLITICS: CyberSecurity
-Researchers discover massive increase in Emotet activity
-Discord Users Be Careful Of Malware And Information Theft
-TA-505 Cybercrime on System Integrator Companies
-Donald Trump ransomware spreads dangerous malware
-How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
-Researchers wp vcd malware is no 1 in wordpress infections since august
-Remove Peet Virus Ransomware (+File Recovery)
-UK POLITICS: CyberSecurity
-Cyber attack on Labour is just the beginning, warn experts
-Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
-Uninstall Cyborg Ransomware from Windows 10
-Removal instructions for Full System Care
-Red Dead Redemption 2 ultrawide, multimonitor, FOV mod
-Discord Users Be Careful Of Malware And Information Theft
-Red Dead Redemption 2 ultrawide, multimonitor, FOV mod
-Intel's Cascade Lake CPUs impacted by new Zombieload v2 attack
-BlackBerry World Tour 2019: Girl Guides of Canada; CylancePROTECT; AI; IoT
-Google enlists outside help to clean up Android’s malware mess
-Silobreaker Daily Cyber Digest – 11 November 2019
-Revenge is a Dish Best Served... Obfuscated?
-Donut : Generates x86, x64, or AMD64+x86 Position-Independent Shellcode
-WP-VCD malware is number one in WordPress infections since August
-How To Remove Nonamebnm Scam Pop-ups From Mac
-Cheats, hacks, and cyber-attacks: Esports cybercrime poised to soar
-A major cloud services company suffers massive ransomware infection
-Some ios apps found have clicker trojan malware dave irvine
-Australian Govt agency ACSC warns of Emotet and BlueKeep attacks
-How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
-Transactional Synchronization Extensions (TSX) Asynchronous Abort
-Detecting and Responding to Ransomware
-Magento Users Warned of Remote Code Execution Vulnerability
-49 More Android Apps Caught With Malware Again
-CVE-2017-18350 Disclosure
-CVE-2019-15225/15226: Envoy 1.11.1 vulnerability fixes
-Glimpse malware uses alternative DNS to evade detection
-Check Point Greece September 2019 top malware
-Play store apps to be scanned for malware
-Check Point September 2019 top malware
-Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
-Gamaredon targets Ukraine using CVE-2017-0199
-Leashing Cerberus
-Emotet malware is back, more dangerous than ever
-StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
-The SOC Brief for Nov 12
-The State of Insider Threats in 2019
-Glimpse Malware Aims to Avoid Detection Via Alternative DNS
-Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
-A Wormable Bluekeep Exploit?
-The SOC Brief for Nov 12
-Critical vulnerability affects Linux Ubuntu and FreeBSD systems
-Android smartphone owners fall victim to new ‘unremovable’ malware variant
-Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
-As safe as houses top tips for social landlords amid the rising threat of cyber attacks
-TrickBot Malware Uses Fake Sexual Harassment Complaints as Bait
-PH has high Malware Attacks among SEA Countries
-#cybersecurity | hacker Leashing Cerberus
-Can Your SMB Stand Up to Petya 2.0 Ransomware?
-7 Effective Cybersecurity Tips for Black Friday and Cyber Monday
-Tips for Staying Safe Online
-Tips for Staying Safe Online
-CVE-2019-11135 - Speculate the Unexpected
-How to protect your company from hijacking malware
-****************************************************************************************************
-cluster id: 1
 UK's Labour Party says it has repelled a DDoS attack
 Labour Party experiences 'sophisticated and large scale cyber attack'
-Labour Party targeted in 'large-scale and sophisticated' cyber attack
-Labour Party targeted in DDoS attack
-Labour Party confirms cyber attack was DDoS
+Corbyn brands cyber attack as ‘suspicious’ after UK Labour Party’s digital systems targeted during election campaign
+UK Labour Party Says It Has Experienced A ‘Large Scale Cyber Attack’ On Its Digital Platforms
+Labour hit by 'sophisticated large scale' cyber attack on their election campaign
+‘Sophisticated’ cyber attack on UK Labour Party platforms was probably just a DDoS, says official
+UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
+General Election 2019: ‘Cyber attack’ on Labour Party digital platforms
+Hackers mount ‘large-scale’ cyber attack on Labour Party systems
+UK Labour Party Hit With 'Sophisticated and Large Scale' Cyber Attack During Election Campaign
+Labour cyber-attack: Hackers attempt 'large scale' DDoS attack on party's digital general election campaign platforms
+What caused the Labour Party cyber attack?
+Corbyn brands cyber attack as ‘suspicious’ after UK Labour Party’s digital systems targeted during election campaign
+UK Labour Party Says It Has Experienced A ‘Large Scale Cyber Attack’ On Its Digital Platforms
+Britain’s opposition Labour Party reports sophisticated cyber attack
+Labour hit by 'sophisticated large scale' cyber attack on their election campaign
+UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
+General Election 2019: ‘Cyber attack’ on Labour Party digital platforms
+Hackers mount ‘large-scale’ cyber attack on Labour Party systems
+Has Labour Really Been Hit By “Large-Scale and Sophisticated” Cyber Attack?
+UK Labour's digital platforms hit by large-scale cyber attack
+UK Labour suffers 'major cyber attack' ahead of election
+UK Labour Party Hit by Cyber Attack Ahead of Election
 UK Labor party hit by a DDoS Cyber Attack
-DDoS Attack Targets UK Labour Party Weeks Ahead of Election
-Labour Party hit by “sophisticated” cyber attack
 Labour Party targeted by ‘large scale’ cyber attack
 Labour Party hit by cyber attack ahead of election
-UK Labour Party Targeted in Large Scale Cyber Attack
 Labour Party’s campaign sites hit by DDoS Attack
-Britain’s opposition Labour Party reports sophisticated cyber attack
-#cybersecurity | #infosec | That “sophisticated” Labour cyber-attack – don’t panic
-Labour hit by 'sophisticated large scale' cyber attack on their election campaign
-UK's Labour Party says it has repelled a DDoS attack
-UK Labour Party Servers Hit by DDOS from Russia and Brazil
-Corbyn brands cyber attack as ‘suspicious’ after UK Labour Party’s digital systems targeted during election campaign
-Labour Party targeted in 'large-scale and sophisticated' cyber attack
-Labour Party Claims Victim Of Large-Scale Cyberattack
-UK Labour Party Says It Has Experienced A ‘Large Scale Cyber Attack’ On Its Digital Platforms
-‘Sophisticated’ cyber attack on UK Labour Party platforms was probably just a DDoS, says official
-Labour Party cyber attack: What caused it?
-Labour Party targeted by cyber attack – POLITICO
-UK Labour's digital platforms hit by large-scale cyber attack
-Labour Party targeted by cyber attack – POLITICO
-Labour Party confirms cyber attack was DDoS
-Labour Party cyber attack: What caused it?
-The Latest: UK Labour Party hit by large-scale cyberattack
-Labour Party targeted in 'large-scale and sophisticated' cyber attack
-Britain’s opposition Labour Party reports sophisticated cyber attack
-Labour says it has been hit by 'large scale cyber attack'
-Labour says it has been hit by 'large scale cyber attack'
-UK Labour Party Hit by Cyber Attack Ahead of Election
-‘Sophisticated’ cyber attack on UK Labour Party platforms was probably just a DDoS, says official
-Hackers mount ‘large-scale’ cyber attack on Labour Party systems
-Corbyn brands cyber attack as ‘suspicious’ after UK Labour Party’s digital systems targeted during election campaign
-UK Labor party hit by a DDoS Cyber Attack
-UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
-Labour Party targeted in 'large-scale and sophisticated' cyber attack
-General Election 2019: ‘Cyber attack’ on Labour Party digital platforms
-Labour hit by 'sophisticated large scale' cyber attack on their election campaign
-UK Labour suffers 'major cyber attack' ahead of election
-Labour Party Claims Victim Of Large-Scale Cyberattack
-UK Labour suffers 'major cyber attack' ahead of election
-General Election 2019: ‘Cyber attack’ on Labour Party digital platforms
-UK Labour Party Hit by Cyber Attack Ahead of Election
+UK Labour Party Targeted in Large Scale Cyber Attack
 Labour Party hit by “sophisticated” cyber attack
-Labour cyber-attack: Hackers attempt 'large scale' DDoS attack on party's digital general election campaign platforms
-UK Labour Party Hit With 'Sophisticated and Large Scale' Cyber Attack During Election Campaign
-Labour Party experiences 'sophisticated and large scale cyber attack'
 ‘Sophisticated’ cyber attack on UK Labour Party platforms was probably just a DDoS, says official
-UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
-Labour Party cyber attack: What caused it?
-Labour Party hit by cyber attack ahead of election
-UK Labour's digital platforms hit by large-scale cyber attack
-Has Labour Really Been Hit By “Large-Scale and Sophisticated” Cyber Attack?
-Hackers mount ‘large-scale’ cyber attack on Labour Party systems
+DDoS Attack Targets UK Labour Party Weeks Ahead of Election
+Labour Party targeted in 'large-scale and sophisticated' cyber attack
+Labour Party confirms cyber attack was DDoS
+UK Labour suffers 'major cyber attack' ahead of election
+Labour Party Claims Victim Of Large-Scale Cyberattack
+Labour Party hit by “sophisticated” cyber attack
+UK Labour Party Hit by Cyber Attack Ahead of Election
 General Election 2019: ‘Cyber attack’ on Labour Party digital platforms
-UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
-Labour says it has been hit by 'large scale cyber attack'
+UK Labor party hit by a DDoS Cyber Attack
+The Latest: UK Labour Party hit by large-scale cyberattack
+UK Labour Party Hit With 'Sophisticated and Large Scale' Cyber Attack During Election Campaign
+Labour Party hit by cyber attack ahead of election
+Britain’s opposition Labour Party reports sophisticated cyber attack
+Labour Party targeted in 'large-scale and sophisticated' cyber attack
+UK's Labour Party says it has repelled a DDoS attack
+Labour Party confirms cyber attack was DDoS
+The Latest: UK Labour Party hit by large-scale cyberattack
+Labour Party targeted by cyber attack – POLITICO
+What is a DDoS attack and how serious was the attack on Labour?
+Labour Party cyber attack: What caused it?
+UK Labour's digital platforms hit by large-scale cyber attack
+‘Sophisticated’ cyber attack on UK Labour Party platforms was probably just a DDoS, says official
 Labour hit by 'sophisticated large scale' cyber attack on their election campaign
 UK Labour Party Says It Has Experienced A ‘Large Scale Cyber Attack’ On Its Digital Platforms
-UK Labour Party Hit With 'Sophisticated and Large Scale' Cyber Attack During Election Campaign
 Corbyn brands cyber attack as ‘suspicious’ after UK Labour Party’s digital systems targeted during election campaign
-UK Labour Party Says It Has Experienced A ‘Large Scale Cyber Attack’ On Its Digital Platforms
-Labour Party targeted by cyber attack – POLITICO
-Labour Party confirms cyber attack was DDoS
-UK's Labour Party says it has repelled a DDoS attack
+UK Labour Party Servers Hit by DDOS from Russia and Brazil
 Labour Party targeted in 'large-scale and sophisticated' cyber attack
+Labour Party cyber attack: What caused it?
+What is a DDoS attack and how serious was the attack on Labour?
+Labour says it has been hit by 'large scale cyber attack'
+Labour Party targeted by cyber attack – POLITICO
+Labour says it has been hit by 'large scale cyber attack'
 Britain’s opposition Labour Party reports sophisticated cyber attack
-What caused the Labour Party cyber attack?
-The Latest: UK Labour Party hit by large-scale cyberattack
+UK Labour party says it was subject to 'sophisticated and large scale' cyber attack
+Labour Party targeted in DDoS attack
+Cyber attack on Labour is just the beginning, warn experts
+Labour Party Claims Victim Of Large-Scale Cyberattack
+Labour Party cyber attack: What caused it?
+Labour says it has been hit by 'large scale cyber attack'
+Labour Party targeted by cyber attack – POLITICO
+#cybersecurity | #infosec | That “sophisticated” Labour cyber-attack – don’t panic
+What is a DDoS attack and how serious was the attack on Labour?
+UK's Labour Party says it has repelled a DDoS attack
+Labour Party experiences 'sophisticated and large scale cyber attack'
+Labour Party targeted in 'large-scale and sophisticated' cyber attack
+Labour Party targeted in 'large-scale and sophisticated' cyber attack
+Labour Party confirms cyber attack was DDoS
+****************************************************************************************************
+cluster id: 1
+Following SmarterASP’s security incident, here’s a cybersecurity checklist for choosing a hosting provider
+Popular ASP.NET Hosting Provider Recovers After Ransomware Attack
+Major ASP.NET hosting provider infected by ransomware
+SmarterASP.NET is Struck by Ransomware Which Encrypted Client Data
+Expert Advise: SmarterASP.NET Infected By Ransomware
+Ransomware attack knocks SmarterASP.net customers knocked offline
+Leading ASP.NET host crippled by ransomware attack
+Major US Hosting Provider Hit by Ransomware
+ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
+Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
+SmarterASP.net customers knocked offline due to Ransomware attack
+Ransomware Attack Downs Hosting Service SmarterASP.NET
+SmarterASP.NET, a web host with over 440,000 customers, says it was hit by ransomware over the weekend; many customers remain locked out of their data (Catalin Cimpanu/ZDNet)
+SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
+Hoster SmarterASP.NET Taken Down by Ransomware
+ASP.NET hosting provider recovering from ransomware attack
+Ransomware attack knocks SmarterASP.net customers knocked offline
+Ransomware attack on SmarterASP.NET impact 440,000 customers
+Hosting provider SmarterASP.NET hit by ransomware attack
+Ransomware attack on SmarterASP.NET impact 440,000 customers
+Large ASP.NET hosting provider crippled in ransomware attack
+SmarterASP.NET - ASP.NET Hosting Provider Hit by Ransomware Attack
+Ransomware attack on SmarterASP.NET impact 440,000 customers
+ASP.NET hosting provider hit by ransomware
+Hosting provider SmarterASP.NET hit by ransomware attack
+Ransomware Attack Hits Web Hosting Provider SmarterASP
+ASP.NET hosting provider recovering from ransomware attack
+Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
+SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
+Ransomware Attack Downs Hosting Service SmarterASP.NET
+Large ASP.NET hosting provider crippled in ransomware attack
+ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
+Leading ASP.NET host crippled by ransomware attack
+Following SmarterASP’s security incident, here’s a cybersecurity checklist for choosing a hosting provider
+Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
+ASP.NET hosting provider recovering from ransomware attack
+Hosting provider SmarterASP.NET hit by ransomware attack
+SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
+SmarterASP.NET, a web host with over 440,000 customers, says it was hit by ransomware over the weekend; many customers remain locked out of their data (Catalin Cimpanu/ZDNet)
+Ransomware Attack Downs Hosting Service SmarterASP.NET
+SmarterASP.net customers knocked offline due to Ransomware attack
+ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
+Major US Hosting Provider Hit by Ransomware
+Ransomware attack knocks SmarterASP.net customers knocked offline
+Popular ASP.NET Hosting Provider Recovers After Ransomware Attack
+Major ASP.NET hosting provider SmarterASP hit by ransomware attack
+Major ASP.NET hosting provider infected by ransomware
+Major ASP.NET hosting provider SmarterASP hit by ransomware attack
+Ransomware Attack Hits Web Hosting Provider SmarterASP
+Hosting provider SmarterASP.NET hit by ransomware attack
+Major ASP.NET hosting provider SmarterASP hit by ransomware attack
 ****************************************************************************************************
 cluster id: 2
-Ransomware attack knocks SmarterASP.net customers knocked offline
-Ransomware attack on SmarterASP.NET impact 440,000 customers
-SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
-Leading ASP.NET host crippled by ransomware attack
-ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
-Large ASP.NET hosting provider crippled in ransomware attack
-Ransomware Attack Downs Hosting Service SmarterASP.NET
-Major ASP.NET hosting provider infected by ransomware
-Major ASP.NET hosting provider SmarterASP hit by ransomware attack
-Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
-ASP.NET hosting provider recovering from ransomware attack
-Ransomware Attack Hits Web Hosting Provider SmarterASP
-ASP.NET hosting provider recovering from ransomware attack
-Major US Hosting Provider Hit by Ransomware
-Ransomware attack knocks SmarterASP.net customers knocked offline
-Ransomware attack on SmarterASP.NET impact 440,000 customers
-Hosting provider SmarterASP.NET hit by ransomware attack
-Hosting provider SmarterASP.NET hit by ransomware attack
-Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
-SmarterASP.NET, a web host with over 440,000 customers, says it was hit by ransomware over the weekend; many customers remain locked out of their data (Catalin Cimpanu/ZDNet)
-Following SmarterASP’s security incident, here’s a cybersecurity checklist for choosing a hosting provider
-Following SmarterASP’s security incident, here’s a cybersecurity checklist for choosing a hosting provider
-Major US Hosting Provider Hit by Ransomware
-Leading ASP.NET host crippled by ransomware attack
-Ransomware attack knocks SmarterASP.net customers knocked offline
-Expert Advise: SmarterASP.NET Infected By Ransomware
-Hosting provider SmarterASP.NET hit by ransomware attack
-ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
-SmarterASP.NET is Struck by Ransomware Which Encrypted Client Data
-Major ASP.NET hosting provider infected by ransomware
-Popular ASP.NET Hosting Provider Recovers After Ransomware Attack
-Hoster SmarterASP.NET Taken Down by Ransomware
-SmarterASP.NET - ASP.NET Hosting Provider Hit by Ransomware Attack
-Major ASP.NET hosting provider SmarterASP hit by ransomware attack
-ASP.NET hosting provider hit by ransomware
-Ransomware Attack Downs Hosting Service SmarterASP.NET
-Hosting provider SmarterASP.NET hit by ransomware attack
-Large ASP.NET hosting provider crippled in ransomware attack
-Ransomware Attack Downs Hosting Service SmarterASP.NET
-Popular ASP.NET Hosting Provider Recovers After Ransomware Attack
-ASP.NET Service Provider SmartASP.net Targeted by Ransomware Attack
-Major ASP.NET hosting provider SmarterASP hit by ransomware attack
-Ransomware Attack Hits Web Hosting Provider SmarterASP
-Ransomware attack on SmarterASP.NET impact 440,000 customers
-SmarterASP.net customers knocked offline due to Ransomware attack
-SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
-SmarterASP.net customers knocked offline due to Ransomware attack
-Hosting Provider SmarterASP.NET Recovering From Ransomware Attack
-SmarterASP.NET Hosting’s Network Crippled by Ransomware Attack
-SmarterASP.NET, a web host with over 440,000 customers, says it was hit by ransomware over the weekend; many customers remain locked out of their data (Catalin Cimpanu/ZDNet)
-ASP.NET hosting provider recovering from ransomware attack
+North Korean Malware Attack Strikes Indian Nuclear Power Plant
+How To Use AXIOM In Malware Investigations: Part I
+US Govt Asks Users to Be Wary of Holiday Scams and Malware
+How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
+Donald Trump ransomware spreads dangerous malware
+Mass Malware Attack
+Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
+Massive Malware Attack on Organization Networks
+Google enlists outside help to clean up Android’s malware mess
+Android smartphone owners fall victim to new ‘unremovable’ malware variant
+Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
+ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact
+ISRO Was Warned About DTrack Malware During Chandrayaan 2 Mission, But Remained "Unaffected"
+ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact- Technology News, Firstpost
+ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact- Technology News, Firstpost
+ISRO confirms it was alerted about DTrack malware during Chandrayaan 2, says it had no impact
+Discord Users Be Careful Of Malware And Information Theft
+North Korean Malware Attack Strikes Indian Nuclear Power Plant
+Researchers Uncover Mass Malware Attack
+Discord Users Be Careful Of Malware And Information Theft
+GOOGLE PLAY EXPELLED 49 MALWARE CONTAMINATED APPS FROM PLAY STORE
+Apple, Google not doing enough to fight app-store malware, say security experts
+Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
+Mass Malware Attack
+Discord Users Be Careful Of Malware And Information Theft
+Mass Malware Attack
+Researchers Uncover Mass Malware Attack
+Massive Malware Attack on Organization Networks
+Check Point September 2019 top malware
+Donald Trump ransomware spreads dangerous malware
+Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
+Researchers discover massive increase in Emotet activity
+Australian Govt agency ACSC warns of Emotet and BlueKeep attacks
+Glimpse malware uses alternative DNS to evade detection
+Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
+Researchers Uncover Mass Malware Attack
+Emotet malware is back, more dangerous than ever
+Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
+Mass Malware Attack
+Play store apps to be scanned for malware
+How To Use AXIOM In Malware Investigations: Part I
+Kaspersky: PH ranks 3rd in SEA with most Android mobile malware attempts
+Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
+Researchers wp vcd malware is no 1 in wordpress infections since august
+WP-VCD malware is number one in WordPress infections since August
+Discord Users Be Careful Of Malware And Information Theft
+How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
+Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
+Fighting malware at the roots
+Why hackers or malware are not the biggest security risk for retailers
+MOBILE BANKING MALWARE 101
+Nuspire Security Researchers Discover 730% Increase in Emotet Activity
+Researchers discover massive increase in Emotet activity
+Emotet malware is back, more dangerous than ever
+Check Point September 2019 top malware
+Check Point Greece September 2019 top malware
+Researchers Uncover Mass Malware Attack
+Some ios apps found have clicker trojan malware dave irvine
+Google enlists outside help to clean up Android’s malware mess
+Donald Trump ransomware spreads dangerous malware
+North Korean Malware Attack Strikes Indian Nuclear Power Plant
+PH has high Malware Attacks among SEA Countries
+Researchers Uncover Mass Malware Attack
+Massive Malware Attack on Organization Networks
+Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
+WP-VCD malware is number one in WordPress infections since August
+Glimpse Malware Aims to Avoid Detection Via Alternative DNS
+Researchers wp vcd malware is no 1 in wordpress infections since august
+Clever WebEx Spam Use Cisco Redirect to Deliver RAT Malware
+TrickBot Malware Uses Fake Sexual Harassment Complaints as Bait
+How to protect your company from hijacking malware
+Some iOS Apps Found To Have Clicker Trojan Malware
+Researchers discover massive increase in Emotet activity
+Android: 49 apps contaminated by a malware found in the Play Store
+49 More Android Apps Caught With Malware Again
+Mass Malware Attack
+Emotet malware is back, more dangerous than ever
+Researchers Uncover Mass Malware Attack
+Donald Trump ransomware spreads dangerous malware
+How Zimperium’s z9 Detected Unknown Mobile Malware Overlooked by the AV Industry
+Glimpse Malware Aims to Avoid Detection Via Alternative DNS
+Android smartphone owners fall victim to new ‘unremovable’ malware variant
+US Govt Asks Users to Be Wary of Holiday Scams and Malware
+Android Rat – The FatRat Pentesting Tool for Getting Targeted Android Phone Access
+Reversed malware and prison charges
+PH has high Malware Attacks among SEA Countries
+Massive Malware Attack on Organization Networks
+Australian Govt agency ACSC warns of Emotet and BlueKeep attacks
 ****************************************************************************************************
 cluster id: 3
-CISA issues a security alert for holiday shopping and phishing scams
+Officials reassess size of Canadian credit union data breach
+Equifax Data Breach Update: Backsliding
+Purcellville Town Council holds emergency session regarding data breach
+Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
+Data breach from Facebook API continues
+Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
+The Hidden Costs Your Business Incurs from a Data Breach
+Data breach from Facebook API continues
+Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
+MegaCortex ransomware variant threatens data breach, alters credentials
+Data breach fines are they working to boost consumer safety
+5 Ways to Defend Your Business Against a Data Breach
+Purcellville leaders apologize for data breach, notification of residents
+5 Ways to Defend Your Business Against a Data Breach
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+5 Ways to Defend Your Business Against a Data Breach
+Capital One replaces security chief after data breach
+The Hidden Costs Your Business Incurs from a Data Breach
+Purcellville leaders apologize for data breach, notification of residents
+Purcellville Town Council holds emergency session regarding data breach
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+Officials reassess size of Canadian credit union data breach
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
+Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+Florida Blue alerts members of data breach – Becker’s Hospital Review
+Data Breach Defense: Email and File Lockdown
+Arizona dental insurance company warns customers of potential data breach
+Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
+Capital One replaces security chief after data breach
+Lessons Learned from the Imperva Data Breach
+Capital One Security Chief Replaced After Massive Data Breach
+Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
+Purcellville leaders apologize for data breach, notification of residents
+Officials reassess size of Canadian credit union data breach
+#cybersecurity | #hackerspace | Why Cybersecurity Breach Survivors are Valued Assets
+Purcellville Sorts Data Breach Stemming from 2017 Botched Investigation – Loudoun Now
+MegaCortex ransomware variant threatens data breach, alters credentials
+Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
+Texas Health Agency Fined $1.6m for Data Breach
+Equifax Data Breach Update: Backsliding
+Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
+#cybersecurity | #hackerspace | Why Cybersecurity Breach Survivors are Valued Assets
+Capital One Security Chief Replaced After Massive Data Breach
+Capital One replaces security chief after data breach
+How antivirus can leverage AI to offer more security to enterprise data?
+Arizona dental insurance company warns customers of potential data breach
+Texas Health Agency Fined $1.6m for Data Breach
+Officials reassess size of Canadian credit union data breach
+The Hidden Costs Your Business Incurs from a Data Breach
+Florida Blue alerts members of data breach – Becker’s Hospital Review
+Purcellville Sorts Data Breach Stemming from 2017 Botched Investigation – Loudoun Now
+Data Breach Defense: Email and File Lockdown
+Data breach fines are they working to boost consumer safety
+October 2019’s Most Wanted Malware: the Decline of Cryptominers Continues, as Emotet Botnet Expands Rapidly
+****************************************************************************************************
+cluster id: 4
+Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
+Uninstall Cyborg Ransomware from Windows 10
+Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
+Uninstall Cyborg Ransomware from Windows 10
+Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
+Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
+New Buran Ransomware EnCrypt All Version of Windows OS & Server
+New Buran Ransomware EnCrypt All Version of Windows OS & Server
+RaaS – Hackers Selling Buran Ransomware in Russian Forum That Compatible with All Version of Windows OS & Windows Server
+New Buran Ransomware EnCrypt All Version of Windows OS & Server
+PureLocker Ransomware Can Lock Files on Windows, Linux, and macOS
+Uninstall Cyborg Ransomware from Windows 10
+PureLocker Ransomware Can Be Ported To Windows, Linux, and macOS
+Uninstall Cyborg Ransomware from Windows 10
+Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
+Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
+Delete MOSK ransomware from Windows XP : Efface MOSK ransomware
+Solution To Remove Amandacerny89@aol.com.VIRUS ransomware from Windows XP
+New Buran Ransomware EnCrypt All Version of Windows OS & Server
+PureLocker Ransomware Can Lock Files on Windows, Linux, and macOS
+Uninstall Cyborg Ransomware from Windows 10
+PureLocker Ransomware Can Be Ported To Windows, Linux, and macOS
+RaaS – Hackers Selling Buran Ransomware in Russian Forum That Compatible with All Version of Windows OS & Windows Server
+****************************************************************************************************
+cluster id: 5
+Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
+CVE-2017-18350 Disclosure
+CVE-2019-15225/15226: Envoy 1.11.1 vulnerability fixes
+Adobe Patches Critical Remote Code Execution Bugs in Illustrator
+Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
+Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
+Cisco released new patches to fix security bugs
+CVE-2019-2114: Patched Android Bug That Allows Possible Installation of Malicious Apps
+Patching Problems and How to Solve Them
+Gamaredon targets Ukraine using CVE-2017-0199
+BlueKeep Attacks Crash Systems Due to Meltdown Patch
+Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
+Microsoft Warns Users: Beware of Damaging BlueKeep Attacks
+Microsoft Warns BlueKeep Exploit Likely to Deliver More Harmful Payloads
+Microsoft Confirms BlueKeep Attacks, Calls Users to Patch to Prepare for More Damaging Attacks
+Cisco released new patches to fix security bugs
+CVE-2019-2114: Patched Android Bug That Allows Possible Installation of Malicious Apps
+A Wormable Bluekeep Exploit?
+Patching Problems and How to Solve Them
+#cybersecurity | hacker | Microsoft Patch Tuesday covers 13 critical vulnerabilities
+Microsoft Patches IE Zero-Day Bug
+November 2019 Patch Tuesday: Actively exploited IE zero-day fixed
+Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
+Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
+Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
+Microsoft Patches IE Zero-Day Among 74 Vulnerabilities
+CVE-2019-11135 - Speculate the Unexpected
+Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
+Gamaredon targets Ukraine using CVE-2017-0199
+New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
+Critical vulnerability affects Linux Ubuntu and FreeBSD systems
+Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
+Magento Users Warned of Remote Code Execution Vulnerability
+Gamaredon targets Ukraine using CVE-2017-0199
+Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
+Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
+BlueKeep Attacks Crash Systems Due to Meltdown Patch
+Optergy 2.3.0a - Remote Code Execution (Backdoor)
+CVE-2019-15225/15226: Envoy 1.11.1 vulnerability fixes
+CVE-2017-18350 Disclosure
+CVE-2019-11135 - Speculate the Unexpected
+Cybersecurity asean security alert multiple vulnerabilities vmware products could allow
+Magento Users Warned of Remote Code Execution Vulnerability
+New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
+Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
+Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
+Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
+Two critical zero-day vulnerabilities found at thousands of ATMs
+Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
+Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
+New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
+Vulnerability in McAfee Antivirus Software Let Hackers Execute an Arbitrary Code & Escalates System Privilege
+eMerge E3 Access Controller 4.6.07 - Remote Code Execution (Metasploit)
+Two critical zero-day vulnerabilities found at thousands of ATMs
+Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
+November 2019 Patch Tuesday: Actively exploited IE zero-day fixed
+Marcus Hutchins Gives Advice on BlueKeep (CVE-2019-0708)
+Serious XSS Vulnerability Found In Avast Desktop Antivirus For Windows
+Critical vulnerability affects Linux Ubuntu and FreeBSD systems
+Microsoft Patches IE Zero-Day Among 74 Vulnerabilities
+Operation WizardOpium – Kaspersky uncovers zero-day in popular web browser exploited in the wild by threat actor
+Cybersecurity Company Check Point’s ZoneAlarm Forum Hacked – Attackers Exploited Patched vBulletin 0-Day Flaw
+What is a zero-day exploit?
+What is a zero-day exploit?
+eMerge E3 Access Controller 4.6.07 - Remote Code Execution (Metasploit)
+****************************************************************************************************
+cluster id: 6
+Ransomware attack hits Mexican state oil firm Pemex
+Pemex Struck by Ransomware Attack
+Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Mexican state oil company Pemex hit by means of ransomware assault
+A Mexican oil company was hit by ransomware attack
+Mexico’s Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Mexican Oil Company Pemex Hit by Ransomware
+Mexican state-owned oil company Pemex hit by ransomware
+Ransomware Attack at Mexican State Oil Firm Halts Work
+Ransomware Attack Hits Mexico's State Oil Firm Pemex
+Ransomware Attack Hits Mexico's State Oil Firm Pemex
+Mexican Oil Company Pemex Hit by Ransomware
+Ransomware attack on the Mexican oil giant Pemex
+Mexican state oil firm Pemex hit by ransomware attack
+Ransomware attack hits Mexican state oil firm Pemex
+Mexican state oil firm Pemex hit by ransomware attack
+Pemex Struck by Ransomware Attack
+A Mexican oil company was hit by ransomware attack
+Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Ransomware attack on the Mexican oil giant Pemex
+Mexican state oil company Pemex hit by means of ransomware assault
+A Mexican oil company was hit by ransomware attack
+Ransomware attack hits Mexican state oil firm Pemex
+Pemex Struck by Ransomware Attack
+Mexican Oil Company Pemex Hit by Ransomware
+Mexican Oil Company Pemex Attacked by Ransomware
+Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Mexico’s Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
+Mexican Oil Company Pemex Hit by Ransomware
+Mexican state oil firm Pemex hit by ransomware attack
+Ransomware attack hits Mexican state oil firm Pemex
+Ransomware Attack Hits Mexico's State Oil Firm Pemex
+Ransomware Attack at Mexican State Oil Firm Halts Work
+Ransomware attack on the Mexican oil giant Pemex
+Mexican state oil firm Pemex hit by ransomware attack
+Mexican Oil Company Pemex Hit by Ransomware
+****************************************************************************************************
+cluster id: 7
+Proven Methods for Combatting SMB Ransomware
+Cheats, hacks, and cyber-attacks: Esports cybercrime poised to soar
+TA505 Cybercrime targets system integrator companies
+Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
+Commerce Twp. security firm identifies ‘Emotet’ as top threat
+TA-505 Cybercrime on System Integrator Companies
+A major cloud services company suffers massive ransomware infection
+How to prepare for a ransomware attack
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+Could Your Backups Survive A Ransomware Attack?
+33% of businesses hit by DDoS attack in 2017, double that of 2016
+Asus Ransomware Removal Guide
+Seqrite Threat Report Q3 2019
+Labour DDoS attack “should be a significant concern to all voters”
+The week in security: Keeping up with the hackers
+Cyber-attack against KNPPP and ISRO: The threat comes home
+Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
+If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
+DDoS attacks in Q3 2019
+Live in Florida? You're more likely to be hit by a cyberattack than any other state
+A major cloud services company suffers massive ransomware infection
+Removal instructions for Full System Care
+Remove Peet Virus Ransomware (+File Recovery)
+Young hooligans at heart of DDoS spike
+New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
+Buran ransomware-as-a-service continues to improve
+Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
+How To Remove Nonamebnm Scam Pop-ups From Mac
+2019 Ransomware Report
+Cyberattack Against KNPPP And ISRO: The Threat Comes Home – Analysis
+Cyber Command flags North Korean-linked hackers behind ongoing financial heists
+Sorryforthis Ransomware Removal Guide
+Leashing Cerberus
+Cybersecurity Must Do More Than Prevention, Real-Time Metadata Is the First Step
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+Buran ransomware-as-a-service continues to improve
+Proven Methods for Combatting SMB Ransomware
+Remove Peet Virus Ransomware (+File Recovery)
+Sorryforthis Ransomware Removal Guide
+Ransomware threat
+Asus Ransomware Removal Guide
+What SMBs NEED to know about ransomware
+10 Steps Organizations Can Take in the Fight Against Ransomware
+How to prepare for a ransomware attack
+#city | #ransomware | MIT Expert Explains Ransomware Attacks
+Could Your Backups Survive A Ransomware Attack?
+Detecting and Responding to Ransomware
+Weekly Security News Roundup: Average Ransomware Payments Surpassed $40K in Q3
+#city | #ransomware | 90pc of UK’s biggest law firms at risk of having confidential client data stolen
+Ransomware Lessons for City Governments
+Can Your SMB Stand Up to Petya 2.0 Ransomware?
+Defending against nation state ransomware
+Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
+Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
+ConnectWise warns customers of ongoing ransomware campaign
+Cheats, hacks, and cyber-attacks: Esports cybercrime poised to soar
+A major cloud services company suffers massive ransomware infection
+Cyber Command flags North Korean-linked hackers behind ongoing financial heists
+North Carolina municipalities get state’s help on ransomware protection
+#school | #ransomware | Las Cruces, N.M., School District to Scrub 30,000 Computers
+TA-505 Cybercrime on System Integrator Companies
+How to remove STOP Ransomware
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+A major cloud services company suffers massive ransomware infection
+Buran ransomware-as-a-service continues to improve
+Best Ransomware Removal Overview: Understanding This Kind of Malware and How it Can be Prevented
+TA505 Cybercrime targets system integrator companies
+Are You Ready for Ransomware?
+Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
+Mexico’s Pemex Said It Quickly Neutralized Digital Attack
+Detecting and Responding to Ransomware
+Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
+Could Your Backups Survive A Ransomware Attack?
+33% of businesses hit by DDoS attack in 2017, double that of 2016
+Fortnite online servers worldwide under DDoS attack
+How to prepare for a ransomware attack
+Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
+UK POLITICS: CyberSecurity
+Update: Labour website subject to second DDoS attack
+Labour DDoS attack “should be a significant concern to all voters”
+Intel's Cascade Lake CPUs impacted by new Zombieload v2 attack
+Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
+UK POLITICS: CyberSecurity
+Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
+Transactional Synchronization Extensions (TSX) Asynchronous Abort
+Buran ransomware-as-a-service continues to improve
+As cloud security improves, a weak link emerges: people
+Intel's Cascade Lake CPUs impacted by new Zombieload v2 attack
+Transactional Synchronization Extensions (TSX) Asynchronous Abort
+Stand up to Cyber Attacks with Cloud Backups
+The Myths of Multifactor Authentication
+The State of Insider Threats in 2019
+Attack through MTProxy servers that Telegram to DDoS Iranian Cloud Provider
+7 Effective Cybersecurity Tips for Black Friday and Cyber Monday
+As safe as houses top tips for social landlords amid the rising threat of cyber attacks
+New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
+The SOC Brief for Nov 12
+Sodinokibi Ransomware Targeting Asia via the RIG Exploit Kit
+2019 Ransomware Report
+Update: Labour website subject to second DDoS attack
+How To Remove Nonamebnm Scam Pop-ups From Mac
+If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
+Cybercrime: Federal Criminal Office establishes new department from 2020
+The five pillars of cyber security
+Ransom payments averaging $41,000 per incident
+Mexico’s Pemex oil provider says attempted hack ‘neutralized’
+What Is NIST’s Cybersecurity Framework Manufacturing Profile?
+Threat Actor Using C&C Server to Host Ransomware, POS Carding Malware and Other Threats
+#cybersecurity | hacker Leashing Cerberus
+Detecting and Responding to Ransomware
+Can Your SMB Stand Up to Petya 2.0 Ransomware?
+Bitdefender GravityZone enhanced with new endpoint defense capabilities
+New PureLocker Ransomware Linked to MaaS Provider for Cobalt Gang, FIN6
+Managed Security Services Provider (MSSP) News: 12 November 2019
+Sodinokibi Ransomware Targeting Asia via the RIG Exploit Kit
+Titanium APT Hackers Inject New Hidden Backdoor on Windows Using Fileless Technique
+network packet properties belonging to Dos/DDos attack
+DDoS attacks in Q3 2019
+Aussie cybersecurity innovator Datasec goes global with HP Workpath
+Attack through MTProxy servers that Telegram to DDoS Iranian Cloud Provider
+Cyberattack Against KNPPP And ISRO: The Threat Comes Home – Analysis
+Telegram MTProxy Servers Used to DDoS Iranian Cloud Provider
+Is your organisation protected against modern DDoS attacks?
+The SOC Brief for Nov 12
+Weekly Security News Roundup: Average Ransomware Payments Surpassed $40K in Q3
+The State of Insider Threats in 2019
+Defending against nation state ransomware
+How to Handle a Cyberattack
+Ransomware Lessons for City Governments
+DDoS Defense Improvement is a Process
+Your business’s cybersecurity depends on you
+World War C or How to Keep Your Organization Safe in a Cyber-Threatened Era
+Believe the hype, but control the threat: Reducing the risk of ransomware
+Tech Support Scammers Exploiting Unpatched Firefox Bug
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
+What SMBs NEED to know about ransomware
+Can Your SMB Stand Up to Petya 2.0 Ransomware?
+Removal instructions for Full System Care
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+Remove Peet Virus Ransomware (+File Recovery)
+ConnectWise warns customers of ongoing ransomware campaign
+Red Dead Redemption 2 ultrawide, multimonitor, FOV mod
+Half of Q3 DDoS attacks happened in September: Kaspersky - ET CISO
+Red Dead Redemption 2 ultrawide, multimonitor, FOV mod
+South Africa less than ready for DDoS attacks
+Young hooligans at heart of DDoS spike
+September saw a huge rise in DDoS attacks
+DDoS Assaults Concentrate on Amazon, SoftLayer and Telecom Infrastructure
+Hackers Demand $5 Million from Mexico's Pemex in Cyberattack
+BlackBerry World Tour 2019: Girl Guides of Canada; CylancePROTECT; AI; IoT
+Security Affairs newsletter Round 239 – Hackademicus
+Silobreaker Daily Cyber Digest – 11 November 2019
+2019 Ransomware Report
+Live in Florida? You're more likely to be hit by a cyberattack than any other state
+Cybersecurity Must Do More Than Prevention, Real-Time Metadata Is the First Step
+Could Your Backups Survive A Ransomware Attack?
+Revenge is a Dish Best Served... Obfuscated?
+Donut : Generates x86, x64, or AMD64+x86 Position-Independent Shellcode
+If it sounds too good to be true, it most likely is: Nobody can decrypt the Dharma ransomware
+Removal instructions for Full System Care
+Sorryforthis Ransomware Removal Guide
+Ransomware threat
+How to prepare for a ransomware attack
+Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
+Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
+****************************************************************************************************
+cluster id: 8
+Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
+Wood County Schools working to recover from ransomware attack
+#city | #ransomware | Ransomware Attack At Mexico’s Pemex Halts Work, Threatens To Cripple Computers
+Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers
+What is a DDoS cyber attack? And could my computer be a weapon?
+What is a DDoS cyber attack? And could my computer be a weapon?
+Wood County Schools working to recover from ransomware attack
+Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
+Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers By Reuters
+Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
+Ransomware attack at mexicos pemex halts work threatens to cripple computers
+Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers By Reuters
+Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers – GetAps.site
+#city | #ransomware | Ransomware Attack At Mexico’s Pemex Halts Work, Threatens To Cripple Computers
+What is a DDoS cyber attack? And could my computer be a weapon?
+Wood County Schools working to recover from ransomware attack
+Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers
+****************************************************************************************************
+cluster id: 9
+QuikSilver and Billabong Affected by Ransomware Attack
+Boardriders and its subsidiarities QuikSilver and Billabong infected with ransomware
+Boardriders and its subsidiarities QuikSilver and Billabong infected with ransomware
+QuikSilver and Billabong Affected by Ransomware Attack
+Ransomware Attack hits QuikSilver and Billabong
+QuikSilver and Billabong Affected by Ransomware Attack
+Ransomware Attack hits QuikSilver and Billabong
+QuikSilver and Billabong Affected by Ransomware Attack
+Ransomware Attack hits QuikSilver and Billabong
+****************************************************************************************************
+cluster id: 10
+New ransomware as a service offered at deep discount report a
+This unusual new ransomware is going after servers
+Buran ransomware is being sold for a discount
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
+This unusual new ransomware is going after servers
+‘Buran’ new ransomware evolved from VegaLocker
+Counterterrorism expert: Small healthcare companies are the new ransomware targets
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+New ransomware as a service offered at deep discount report a
+PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+This unusual new ransomware is going after servers
+PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+New ransomware as a service offered at deep discount report a
+‘Buran’ new ransomware evolved from VegaLocker
+Buran ransomware is being sold for a discount
+New ransomware as a service offered at deep discount report a
+New ransomware as a service offered at deep discount report a
+‘Buran’ new ransomware evolved from VegaLocker
+Buran ransomware is being sold for a discount
+This unusual new ransomware is going after servers
+‘Buran’ new ransomware evolved from VegaLocker
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+This unusual new ransomware is going after servers
+Counterterrorism expert: Small healthcare companies are the new ransomware targets
+New Buran ransomware-as-a-service tempts criminals with discount licenses
+PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
+‘Buran’ new ransomware evolved from VegaLocker
+****************************************************************************************************
+cluster id: 11
+Lateral Phishing: When Your “Colleague” is Actually an Attacker
+How to spot a phishing email
+Malwarebytes Anti-Exploit Beta 1.13.1.125 | Offer protection to your browsers and programs towards assaults ZeroDay
+Lateral phishing makes for dangerous waters, here’s how you can avoid getting caught in the net
+StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
+Why Perpetrators of Phishing Attacks Love Social Engineering?
+Why Perpetrators of Phishing Attacks Love Social Engineering?
+Tips for Staying Safe Online
+Tips for Staying Safe Online
+Phishing emails spoof WebEx invites, abuse Cisco open redirect
+Phishing would you take the bait
+Buran: New ransomware attracts competitors through reduced prices
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
+BitMEX Traders Start Getting Phishing Emails After Data Leak
+BitMEX Traders Start Getting Phishing Emails After Data Leak
+Breach of Leading Domain Name Registrar Could Lead to an Explosion in Phishing Scams
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
+Buran: New ransomware attracts competitors through reduced prices
+Phishing scam imitating state agencies sent to local businesses
+StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
+BitMEX Traders Start Getting Phishing Emails After Data Leak
+Phishing attacks are increasingly sophisticated: here’s how to stay safe
+Scam of the day – November 12, 2019 – New Netflix Phishing Scam
+Dont bite that phishing hook
+my phishing game.
+Global Spear Phishing Market Demand Analysis By Top Key Players Like Cisco Systems Inc., Votiro Inc., IronScales Ltd., Microsoft, Symantec Corporation, PhishLabs
+UC Browser Vulnerability Could Expose More Than 600M Users to Phishing Attacks
+Buran: New ransomware attracts competitors through reduced prices
+Phish Protection is providing advanced anti-phishing solutions at competitive prices
 Cybersecurity weekly record bug bounty payouts new phishing attacks smartphone fingerprint hack
 Phishing in academic environments
-UC Browser Vulnerability Could Expose More Than 600M Users to Phishing Attacks
-my phishing game.
-How to Protect Your Organization From Evolving Phishing Attacks
-Scam of the day – November 12, 2019 – New Netflix Phishing Scam
-Phishing scam imitating state agencies sent to local businesses
-Breach of Leading Domain Name Registrar Could Lead to an Explosion in Phishing Scams
-‘Email Phishing’ emerging as a new form of cybercrime
-Phishing emails spoof WebEx invites, abuse Cisco open redirect
-BitMEX Traders Start Getting Phishing Emails After Data Leak
 CISA issues a security alert for holiday shopping and phishing scams
-Lateral phishing makes for dangerous waters, here’s how you can avoid getting caught in the net
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
+StoneFly Storage OS Software Latest Version Adds WORM, Dedup & Ransomware Protection
 ‘Email Phishing’ emerging as a new form of cybercrime
-Lateral Phishing: When Your “Colleague” is Actually an Attacker
-BitMEX Traders Start Getting Phishing Emails After Data Leak
-Dont bite that phishing hook
-Lateral phishing makes for dangerous waters, here’s how you can avoid getting caught in the net
-Why Perpetrators of Phishing Attacks Love Social Engineering?
-Why Perpetrators of Phishing Attacks Love Social Engineering?
-How to spot a phishing email
-How to detect a phishing site?
-Phishing would you take the bait
-Phishing emails spoof WebEx invites, abuse Cisco open redirect
-Phishing attacks are increasingly sophisticated: here’s how to stay safe
-BitMEX Traders Start Getting Phishing Emails After Data Leak
-Phish Protection is providing advanced anti-phishing solutions at competitive prices
+Global Ransomware Protection Industry
+Week in review: Active Directory security, Patch Tuesday forecast, stopping lateral phishing attacks
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
 Breach of Leading Domain Name Registrar Could Lead to an Explosion in Phishing Scams
 HKMA Alert: Hong Leong Bank Berhad phishing email
 Study Finds Scammers Rely more on Malicious URLs than Attachments for Email Phishing
+New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
+‘Email Phishing’ emerging as a new form of cybercrime
+Global Ransomware Protection Industry
+Week in review: Active Directory security, Patch Tuesday forecast, stopping lateral phishing attacks
+Lateral phishing makes for dangerous waters, here’s how you can avoid getting caught in the net
+How to detect a phishing site?
 BitMEX Crypto Traders Targeted by Phishing Scams: What the Attacks Look Like
-How to Spot Phishing Sites in 4 Simple Steps
-Exactly Why Is Replying to Phishing Attacks A Really Bad Idea?
-Phishing email creators rely on a short shelf life to beat your defences
-Phishing Resistance for Charities
+Phishing emails spoof WebEx invites, abuse Cisco open redirect
 Autumn Scamwatch: Another TV Licensing Phishing Scam
 Go Phish! The Fraudulent Email from the Web Security Team
-How to spot a phishing email
-Phishing attacks that bypass 2-factor authentication are now easier to execute
 New Report Reveals PayPal is a Top Target for Phishing
-****************************************************************************************************
-cluster id: 4
-As cloud security improves, a weak link emerges: people
-New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
-Weekly Security News Roundup: Average Ransomware Payments Surpassed $40K in Q3
-Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
-Managed Security Services Provider (MSSP) News: 12 November 2019
-Security Affairs newsletter Round 239 – Hackademicus
-How antivirus can leverage AI to offer more security to enterprise data?
-Capital One replaces security chief after data breach
-Capital One Security Chief Replaced After Massive Data Breach
-Capital One Security Chief Replaced After Massive Data Breach
-The five pillars of cyber security
-Capital One replaces security chief after data breach
-Cybersecurity asean security alert multiple vulnerabilities vmware products could allow
-Cyber Command flags North Korean-linked hackers behind ongoing financial heists
-Nuspire Security Researchers Discover 730% Increase in Emotet Activity
-RaaS – Hackers Selling Buran Ransomware in Russian Forum That Compatible with All Version of Windows OS & Windows Server
-RaaS – Hackers Selling Buran Ransomware in Russian Forum That Compatible with All Version of Windows OS & Windows Server
-Apple, Google not doing enough to fight app-store malware, say security experts
-Week in review: Active Directory security, Patch Tuesday forecast, stopping lateral phishing attacks
-Weekly Security News Roundup: Average Ransomware Payments Surpassed $40K in Q3
-The week in security: Keeping up with the hackers
-Commerce Twp. security firm identifies ‘Emotet’ as top threat
-Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
-Security Bulletin: IBM Tivoli Netcool Impact is affected by a jQuery vulnerability (CVE-2015-9251)
-New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
-Why hackers or malware are not the biggest security risk for retailers
-Week in review: Active Directory security, Patch Tuesday forecast, stopping lateral phishing attacks
-Capital One replaces security chief after data breach
-Cyber Command flags North Korean-linked hackers behind ongoing financial heists
-New Spectre-Related CPU Flaw Tops Intel’s Latest Critical Security Fixes
-****************************************************************************************************
-cluster id: 5
-2019 Ransomware Report
-PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
-This unusual new ransomware is going after servers
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-This unusual new ransomware is going after servers
-New ransomware as a service offered at deep discount report a
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
-Buran: New ransomware attracts competitors through reduced prices
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-This unusual new ransomware is going after servers
-‘Buran’ new ransomware evolved from VegaLocker
-Buran ransomware is being sold for a discount
-Buran ransomware-as-a-service continues to improve
-New Buran Ransomware EnCrypt All Version of Windows OS & Server
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-Buran: New ransomware attracts competitors through reduced prices
-This unusual new ransomware is going after servers
-PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
-New ransomware as a service offered at deep discount report a
-Buran: New ransomware attracts competitors through reduced prices
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-‘Buran’ new ransomware evolved from VegaLocker
-‘Buran’ new ransomware evolved from VegaLocker
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-Buran ransomware-as-a-service continues to improve
-‘Buran’ new ransomware evolved from VegaLocker
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers
-Buran ransomware is being sold for a discount
-Buran ransomware-as-a-service continues to improve
-New Buran Ransomware EnCrypt All Version of Windows OS & Server
-Ransomware as a Service (RaaS) – A Contemporary Mal du siècle?
-New Buran Ransomware EnCrypt All Version of Windows OS & Server
-Buran ransomware is being sold for a discount
-2019 Ransomware Report
-Buran ransomware-as-a-service continues to improve
-New Buran Ransomware EnCrypt All Version of Windows OS & Server
-New ransomware as a service offered at deep discount report a
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-2019 Ransomware Report
-New ransomware as a service offered at deep discount report a
-This unusual new ransomware is going after servers
-New Buran ransomware-as-a-service tempts criminals with discount licenses
-New ransomware as a service offered at deep discount report a
-‘Buran’ new ransomware evolved from VegaLocker
-****************************************************************************************************
-cluster id: 6
-A Mexican oil company was hit by ransomware attack
-Ransomware attack hits Mexican state oil firm Pemex
-Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers
-Pemex Struck by Ransomware Attack
-Mexican state oil company Pemex hit by means of ransomware assault
-Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers
-Mexican Oil Company Pemex Hit by Ransomware
-Mexican state oil firm Pemex hit by ransomware attack
-Ransomware Attack at Mexican State Oil Firm Halts Work
-A Mexican oil company was hit by ransomware attack
-Mexican state oil company Pemex hit by means of ransomware assault
-Pemex Struck by Ransomware Attack
-Ransomware attack hits Mexican state oil firm Pemex
-Ransomware attack on the Mexican oil giant Pemex
-Mexican state-owned oil company Pemex hit by ransomware
-Ransomware Attack at Mexican State Oil Firm Halts Work
-Mexican Oil Company Pemex Attacked by Ransomware
-Ransomware Attack Hits Mexico's State Oil Firm Pemex
-Ransomware Attack Hits Mexico's State Oil Firm Pemex
-Mexican Oil Company Pemex Hit by Ransomware
-Mexican Oil Company Pemex Hit by Ransomware
-Ransomware Attack Hits Mexico's State Oil Firm Pemex
-Mexican state oil firm Pemex hit by ransomware attack
-Ransomware attack hits Mexican state oil firm Pemex
-Mexican Oil Company Pemex Hit by Ransomware
-Ransomware attack on the Mexican oil giant Pemex
-Ransomware Attack at Mexican State Oil Firm Halts Work, Threatens to Cripple Computers – GetAps.site
-Mexican Oil Company Pemex Hit by Ransomware
-Pemex Struck by Ransomware Attack
-A Mexican oil company was hit by ransomware attack
-Mexican state oil firm Pemex hit by ransomware attack
-Ransomware attack on the Mexican oil giant Pemex
-Mexican state oil firm Pemex hit by ransomware attack
-Ransomware attack hits Mexican state oil firm Pemex
-****************************************************************************************************
-cluster id: 7
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-New Ransomware-as-a-Service Undercuts Competition With Discounted Rates (SecAlerts)
-****************************************************************************************************
-cluster id: 8
-Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
-Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
-Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
-Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
-Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
-Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
-Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
-Security Alert: YouTube Bitcoin Videos Found Spreading Info-Stealing Malware
-Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
-Weekly Threat Briefing: Ransomware Attacks In Spain Leave Radio Station In "Hysteria"
-Spain’s Largest Radio Station Under Siege By Bitcoin Ransomware Attack
-****************************************************************************************************
-cluster id: 9
-Attack through MTProxy servers that Telegram to DDoS Iranian Cloud Provider
-What is a DDoS cyber attack? And could my computer be a weapon?
-Stand up to Cyber Attacks with Cloud Backups
-Could Your Backups Survive A Ransomware Attack?
-Mass Malware Attack
-Fortnite online servers worldwide under DDoS attack
-Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
-Massive Malware Attack on Organization Networks
-North Korean Malware Attack Strikes Indian Nuclear Power Plant
-Researchers Uncover Mass Malware Attack
-North Korean Malware Attack Strikes Indian Nuclear Power Plant
-Researchers Uncover Mass Malware Attack
-Massive Malware Attack on Organization Networks
-North Korean Malware Attack Strikes Indian Nuclear Power Plant
-33% of businesses hit by DDoS attack in 2017, double that of 2016
-Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
-Labour DDoS attack “should be a significant concern to all voters”
-Update: Labour website subject to second DDoS attack
-What is a DDoS attack and how serious was the attack on Labour?
-How to prepare for a ransomware attack
-Researchers Uncover Mass Malware Attack
-Massive Malware Attack on Organization Networks
-Massive Malware Attack on Organization Networks
-Researchers Uncover Mass Malware Attack
-Mass Malware Attack
-QuikSilver and Billabong Affected by Ransomware Attack
-Mass Malware Attack
-Could Your Backups Survive A Ransomware Attack?
-South Africa less than ready for DDoS attacks
-Could Your Backups Survive A Ransomware Attack?
-What is a DDoS cyber attack? And could my computer be a weapon?
-Wood County Schools working to recover from ransomware attack
-How to prepare for a ransomware attack
-Mass Malware Attack
-Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
-Telegram MTProxy Servers Used to DDoS Iranian Cloud Provider
-Young hooligans at heart of DDoS spike
-What is a DDoS attack and how serious was the attack on Labour?
-Researchers Uncover Mass Malware Attack
-Update: Labour website subject to second DDoS attack
-What is a DDoS attack and how serious was the attack on Labour?
-DDoS Defense Improvement is a Process
-Ransomware Attack hits QuikSilver and Billabong
-QuikSilver and Billabong Affected by Ransomware Attack
-September saw a huge rise in DDoS attacks
-Ransomware Attack hits QuikSilver and Billabong
-Young hooligans at heart of DDoS spike
-Labour DDoS attack “should be a significant concern to all voters”
-How to prepare for a ransomware attack
-Could Your Backups Survive A Ransomware Attack?
-DDoS attacks in Q3 2019
-Ransomware Attack hits QuikSilver and Billabong
-QuikSilver and Billabong Affected by Ransomware Attack
-Wood County Schools working to recover from ransomware attack
-How to prepare for a ransomware attack
-Half of Q3 DDoS attacks happened in September: Kaspersky - ET CISO
-Mass Malware Attack
-Researchers Uncover Mass Malware Attack
-Is your organisation protected against modern DDoS attacks?
-Attack through MTProxy servers that Telegram to DDoS Iranian Cloud Provider
-DDoS attacks in Q3 2019
-network packet properties belonging to Dos/DDos attack
-33% of businesses hit by DDoS attack in 2017, double that of 2016
-Wood County Schools working to recover from ransomware attack
-What is a DDoS cyber attack? And could my computer be a weapon?
-Mass Malware Attack – Ransomware, Screenlockers, RATs, Attack & Gain Backdoor Access
-QuikSilver and Billabong Affected by Ransomware Attack
-****************************************************************************************************
-cluster id: 10
-Cisco released new patches to fix security bugs
-What is a zero-day exploit?
-Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
-Patching Problems and How to Solve Them
-BlueKeep Attacks Crash Systems Due to Meltdown Patch
-Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
-Microsoft Confirms BlueKeep Attacks, Calls Users to Patch to Prepare for More Damaging Attacks
-Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
-Cisco released new patches to fix security bugs
-Microsoft's November 2019 Patch Tuesday arrives with a patch for an IE zero-day
-Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
-Microsoft Patches IE Zero-Day Among 74 Vulnerabilities
-Adobe Patches Critical Remote Code Execution Bugs in Illustrator
-CVE-2019-2114: Patched Android Bug That Allows Possible Installation of Malicious Apps
-Microsoft Patches IE Zero-Day Among 74 Vulnerabilities
-November 2019 Patch Tuesday: Actively exploited IE zero-day fixed
-Cybersecurity Company Check Point’s ZoneAlarm Forum Hacked – Attackers Exploited Patched vBulletin 0-Day Flaw
-November 2019 Patch Tuesday: Actively exploited IE zero-day fixed
-Microsoft Patches IE Zero-Day Bug
-#cybersecurity | hacker | Microsoft Patch Tuesday covers 13 critical vulnerabilities
-BlueKeep Attacks Crash Systems Due to Meltdown Patch
-What is a zero-day exploit?
-CVE-2019-2114: Patched Android Bug That Allows Possible Installation of Malicious Apps
-Microsoft Patch Tuesday updates fix CVE-2019-1429 flaw exploited in the wild
-Patching Problems and How to Solve Them
-****************************************************************************************************
-cluster id: 11
-Equifax Data Breach Update: Backsliding
-Data breach fines are they working to boost consumer safety
-The Hidden Costs Your Business Incurs from a Data Breach
-5 Ways to Defend Your Business Against a Data Breach
-Purcellville leaders apologize for data breach, notification of residents
-Officials reassess size of Canadian credit union data breach
-Officials reassess size of Canadian credit union data breach
-Data breach from Facebook API continues
-Purcellville Town Council holds emergency session regarding data breach
-Purcellville leaders apologize for data breach, notification of residents
-Purcellville Town Council holds emergency session regarding data breach
-Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
-MegaCortex ransomware variant threatens data breach, alters credentials
-Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
-Purcellville leaders apologize for data breach, notification of residents
-Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
-Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
-Officials reassess size of Canadian credit union data breach
-Lessons Learned from the Imperva Data Breach
-Florida Blue alerts members of data breach – Becker’s Hospital Review
-Arizona dental insurance company warns customers of potential data breach
-Data Breach Defense: Email and File Lockdown
-Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
-Texas Health Agency Fined $1.6m for Data Breach
-Arizona dental insurance company warns customers of potential data breach
-#cybersecurity | #hackerspace | Why Cybersecurity Breach Survivors are Valued Assets
-Data Breach Defense: Email and File Lockdown
-Purcellville Sorts Data Breach Stemming from 2017 Botched Investigation – Loudoun Now
-Florida Blue alerts members of data breach – Becker’s Hospital Review
-5 Ways to Defend Your Business Against a Data Breach
-The Hidden Costs Your Business Incurs from a Data Breach
-MegaCortex ransomware variant threatens data breach, alters credentials
-Purcellville Sorts Data Breach Stemming from 2017 Botched Investigation – Loudoun Now
-Officials reassess size of Canadian credit union data breach
-Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
-Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
-The Hidden Costs Your Business Incurs from a Data Breach
-Social Shorts: Another Facebook data breach, LinkedIn translation settings and 2020 digital ad spend forecasts
-Data breach from Facebook API continues
-Alyssa Watzman to Join Webinar Panel on Data Breach Regulations
-5 Ways to Defend Your Business Against a Data Breach
-Check Point’s ZoneAlarm suffers data breach; 4,500 subscribers impacted
-Texas Health Agency Fined $1.6m for Data Breach
-#cybersecurity | #hackerspace | Why Cybersecurity Breach Survivors are Valued Assets
-Equifax Data Breach Update: Backsliding
-Data breach fines are they working to boost consumer safety
-****************************************************************************************************
-cluster id: 12
-Mexico’s Pemex Said It Quickly Neutralized Digital Attack
-Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-#city | #ransomware | Ransomware Attack At Mexico’s Pemex Halts Work, Threatens To Cripple Computers
-Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers By Reuters
-Mexico’s Pemex oil provider says attempted hack ‘neutralized’
-Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
-Ransomware attack at mexicos pemex halts work threatens to cripple computers
-Mexico’s Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-Hackers Demand $5 Million from Mexico's Pemex in Cyberattack
-Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
-#city | #ransomware | Ransomware Attack At Mexico’s Pemex Halts Work, Threatens To Cripple Computers
-Mexico's Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-Mexico’s Pemex Oil Suffers Ransomware Attack, $4.9 Million Demanded
-Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers By Reuters
-Ransomware attack at Mexico's Pemex halts work, threatens to cripple computers
+CISA issues a security alert for holiday shopping and phishing scams
+Phishing attacks that bypass 2-factor authentication are now easier to execute
+EFF Urges Court to Reconsider Decision That Harms Internet Users’ Ability to Protect Themselves Online
+How to spot a phishing email
+Phishing Resistance for Charities
+Exactly Why Is Replying to Phishing Attacks A Really Bad Idea?
+How to Spot Phishing Sites in 4 Simple Steps
+Phishing email creators rely on a short shelf life to beat your defences
+Global Ransomware Protection Industry
+How to Protect Your Organization From Evolving Phishing Attacks
 ****************************************************************************************************
