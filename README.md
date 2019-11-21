@@ -21,7 +21,7 @@ Cluster lines/sentences into distinct groups.
 
 ## Run
 
-[Text Clustering.ipynb]
+Text Clustering.ipynb
 
 
 ## Methodology
